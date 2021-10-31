@@ -1,1 +1,1 @@
-alert(“Hello, World! I am an alert box!”);
+alert("Hello, World! I am an alert box!");
